@@ -20,8 +20,9 @@ Sou estudante de Sistemas de Informação e desenvolvedor focado em **Back-end**
 ---
 
 ## 📌 Projetos em destaque
-- 🔹 **Loja de Roupa** – Sistema web de loja de roupas utilizando laravel 
-- 🔹 **App flow** – API de listagem de episódios de podcasts com opção para filtragem utilizando node.js e typescript
+- 🔹 **[Loja de Roupa](https://github.com/pdroLcs/projeto_prog_web_avancada_LojadeRoupa)** – Sistema web de loja de roupas utilizando laravel 
+- 🔹 **[App Flow](https://github.com/pdroLcs/app-flow)** – API de listagem de episódios de podcasts com opção para filtragem utilizando node.js e typescript
+- 🔹 **[API Champions League](https://github.com/pdroLcs/api-champions-league)** - API REST que lista jogadorese times da Champions League, utilizando Node.js, TypeScript e Express
 
 ---
 
