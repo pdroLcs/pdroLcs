@@ -29,8 +29,9 @@ Interesse em atuar com desenvolvimento backend, contribuindo para a criação de
 
 ## 📌 Projetos em destaque
 - 🔹 **[SF Movies API](https://github.com/pdroLcs/SF-movies)** – API REST em Java 21 + Spring Boot para consultar filmes gravados em São Francisco com base no dataset público da cidade de San Francisco. <br> **Stack**: Java, Spring Boot, Maven, Git
-- 🔹 **[CNAB Processor API]([https://github.com/pdroLcs/app-flow](https://github.com/pdroLcs/cnab-processor-api))** – API REST em Java/Spring Boot para processamento de arquivos CNAB (80 posições), realizando parsing de transações financeiras e persistência em PostgreSQL. Permite upload de arquivos e consulta das transações processadas. <br> **Stack**: Java21, Spring Boot, PostgreSQL, JPA/Hibernate/, Maven, Git
+- 🔹 **[CNAB Processor API](https://github.com/pdroLcs/cnab-processor-api)** – API REST em Java/Spring Boot para processamento de arquivos CNAB (80 posições), realizando parsing de transações financeiras e persistência em PostgreSQL. Permite upload de arquivos e consulta das transações processadas. <br> **Stack**: Java21, Spring Boot, PostgreSQL, JPA/Hibernate/, Maven, Git
 - 🔹 **[API Champions League](https://github.com/pdroLcs/api-champions-league)** - API REST que lista jogadorese times da Champions League, utilizando Node.js, TypeScript e Express. <br> **Stack**: TypeScript, Node.js, Express, MySQL, Prisma, REST, Git
+- 🔹 **[Pano de Fundo](https://github.com/pdroLcs/pano-de-fundo)** - Projeto de exemplo de uma loja de roupas desenvolvido em Laravel. Contém gerenciamento de produtos, categorias, clientes, compras e mensagens. <br> **Stack**: PHP, Laravel, MySQL, Composer, Bootstrap, Git
 
 ---
 
